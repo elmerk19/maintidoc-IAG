@@ -1,0 +1,13 @@
+pymupdf
+llama-index-core
+llama-index-embeddings-ollama
+llama-index-llms-ollama
+llama-index-vector-stores-postgres
+psycopg2-binary
+ollama
+langchain-ollama
+langgraph
+streamlit
+torch
+transformers
+pillow
