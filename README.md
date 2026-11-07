@@ -125,7 +125,7 @@ projet_academique/
 - Étape 4 : client web, Telegram/Discord, sécurité et déploiement
 
 ## Auteur
-Elmer, EMSI Casablanca, 4IADA.
+KIMATH Elmer, Etudiant à l'EMSI Casablanca, 5IADA.
 
 ## Source du document
 « Maintenance des machines et des moteurs », G. Duchemin, Techniques de l'Ingénieur (BM 4 188). Document utilisé à titre pédagogique.
